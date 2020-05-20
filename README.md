@@ -3,4 +3,4 @@ Este repositorio contiene las fuentes de datos utilizadas por DATADISTA.COM en r
 
 Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes ponerte en contacto con nosotros en hola@datadista.com o en Twitter en @datadista.
 
-Estamos comprobando si sabemos utilizar git para el examen del viernes
+Estamos comprobando si sabemos utilizar git 
